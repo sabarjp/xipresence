@@ -1,0 +1,4 @@
+LIBRARY discord_wrapper.dll;
+
+EXPORTS
+	luaopen_discord_wrapper
